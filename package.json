@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "HuguetteetLeroux",
   "version": "1.8.0",
-  "productName": "Helios Launcher",
+  "productName": "HuguetteetLeroux",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) et Bast33",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/Bast33/HuguetteetLeroux",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/Bast33/HuguetteetLeroux/issues"
   },
   "private": true,
   "main": "index.js",
@@ -47,6 +47,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/Bast33/HuguetteetLeroux.git"
   }
 }
